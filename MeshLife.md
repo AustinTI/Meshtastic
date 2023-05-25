@@ -1,3 +1,10 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1QUfx1Ah2QoANUwQzKLnIhjt-VBO12mvj" alt="Logo" width="1180" height="280">
+</p>
+
+
 # Meshtastic
 Open-Source Decentralized Communication, with a touch of encryption. 
 ## About the project
