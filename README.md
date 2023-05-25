@@ -2,7 +2,7 @@
 Open-Source Decentralized Communication, with a touch of encryption. 
 ## About the project
 Use the following Tools
-> Start< | |https://meshtastic.org/ |
+### Start | |https://meshtastic.org/ |
 | Steps | Slow is Smooth, Smooth is Fast|
 |-----:|-----------|
 | Purchase | https://store.rokland.com/pages/meshtastic-hardware-rak-lilygo |
