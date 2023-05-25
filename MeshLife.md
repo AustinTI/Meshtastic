@@ -1,6 +1,9 @@
 # Meshtastic
 Open-Source Decentralized Communication, with a touch of encryption. 
 ## About the project
+At Global Response Development we strive to keep our tools secure and decentralized, to help provide simplistic communication to our peers; With Mapping and team positioning integration. 
+## Why 
+In parts of the world where digital communication doens't exist, this could be the resources used to provide the data, encryption and resources to help combine our communities with safety, mapping and data transfer, away from civilization.  
 Use the following Tools
 ### Start | |https://meshtastic.org/ |
 | Steps | Slow is Smooth, Smooth is Fast|
