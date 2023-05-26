@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Screenshot]()
+![IMG_8858](https://github.com/OpenSource-For-Freedom/Meshtastic/assets/92951498/fc00a100-d954-47fb-8b8b-430420ac998c)
 
 Meshtastic is an open-source wireless mesh communication platform designed for long-range and decentralized communication. It allows devices to create a self-configuring mesh network, enabling data transmission over extended distances without relying on traditional infrastructure.
 
